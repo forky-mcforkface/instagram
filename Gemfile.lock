@@ -44,7 +44,7 @@ GEM
       erubis
       mingo (>= 0.2)
       rack
-    rack (2.0.5)
+    rack (2.2.4)
     rack-cache (1.2)
       rack (>= 0.4)
     rack-protection (2.0.3)
